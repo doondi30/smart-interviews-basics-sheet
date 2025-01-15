@@ -11,3 +11,4 @@ while gap>0:
             j-= gap
         a[j]=temp
     print(*a)
+    gap//=2
